@@ -7,3 +7,5 @@
 
 主要使用的是proot-distro这个方法
 
+pkg install proot-distro
+
